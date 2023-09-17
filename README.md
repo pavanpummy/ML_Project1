@@ -1,2 +1,2 @@
 # ML_Project1
-ML project handson
+ML project hands-on
